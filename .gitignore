@@ -2,8 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/ConsoleApp1/bin/Debug/net8.0
-/ConsoleApp1/obj
+bin
+obj
 /.vs
-/Taks3/bin/Debug/net8.0
-/Taks3/obj
